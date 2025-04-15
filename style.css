@@ -1,0 +1,146 @@
+ body{
+    font-family: 'Times New Roman', Times, serif;
+    background: #f8dc75;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 18px;
+    flex-wrap: wrap;
+}
+.container{
+    width: 100%;
+    max-width: 1000px;
+    max-height: 600px;
+    background-color: #fce9e9;
+    border-radius: 40px;
+    padding: 30px 30px;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 110px;
+    margin-top: 30px;
+    cursor: pointer;
+ 
+}
+.navstart{
+    font-size: 18px;
+    font-weight: bold;
+}
+.button{
+    background-image: linear-gradient(to left, red, orange);
+    padding: 5px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.navmid{
+    margin: 0 15px;
+}
+.navmid a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+.join{
+    background-color: blue;
+    padding: 10px;
+    color:white;
+    border: 2px white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+ .hello{
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+}
+img{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+.main{
+margin-left: 100px;
+margin-top: 80px;
+}
+.main h1{
+    font-size: 39px;
+}
+.image{
+    width: 400px;
+    height: 350px;
+   margin-top: 30px;
+    margin-left: 20px;
+}
+input{
+    width: 270px;
+    height: 30px;
+    border: none;
+    background-color: white;
+    padding: 6px;
+}
+.form{
+    background-color: blue;
+    padding: 10px;
+    color:white;
+    border: 2px white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.footer{   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 40px;
+   gap: 260px;
+   margin-bottom: 30px;
+   
+}
+.footer a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+.one img{
+    border-radius: 50px;
+}
+.last{
+    align-items: left;
+ margin-right: 100px;
+ margin-left: -300px;
+}
+.one{
+    align-items: right;
+    margin-right: -580px;
+}
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
